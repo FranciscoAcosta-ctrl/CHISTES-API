@@ -11,11 +11,6 @@ const obtenerChiste = async() =>{
     } catch (err) {
         throw err;
     }
-   
-    
-   
-
-   
 }
 
 export {

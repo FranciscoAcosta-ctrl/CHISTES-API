@@ -40,7 +40,7 @@ const dibujarChiste = (chiste) =>{
     olList.append(olItem);
 }
 /*Completada */
-/** ***/
+/***  ***/
 export const init = () =>{
     createChisteHtml();
     eventos();
